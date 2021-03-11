@@ -666,6 +666,7 @@ a#logo {
   margin-bottom: 0;
   font-size: 16px;
   margin-top: 0px;
+  color: black;
 }
 .portfolio-item .thumb-inner p {
   opacity: 0;
