@@ -428,7 +428,7 @@ a#logo {
 
 .fab {
   font-size: 40px;
-  color: blue;
+  color: #7590be;
   transition: all 0.2s ease-in;
 }
 
@@ -439,7 +439,7 @@ a#logo {
 .iconify {
   font-size: 40px;
   background: url('https://api.iconify.design/jam-fiverr-square.svg') no-repeat center center / contain;
-  color: blue;
+  color: #7590be;
   transition: all 0.2s ease-in;
 }
 .welcome-box {
