@@ -54,7 +54,7 @@
                 items: 3,
                 margin: 30,
                 autoplay: false,
-                smartSpeed: 700,
+                smartSpeed: 3000,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
@@ -84,7 +84,7 @@
                 items: 3,
                 margin: 30,
                 autoplay: false,
-                smartSpeed: 700,
+                smartSpeed: 3000,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
@@ -113,7 +113,7 @@
                 dots: true,
                 items: 3,
                 autoplay: true,
-                smartSpeed: 700,
+                smartSpeed: 3000,
                 autoplayTimeout: 4000,
                 responsive: {
                     0: {
@@ -139,7 +139,7 @@
                 items: 1,
                 margin: 30,
                 autoplay: true,
-                smartSpeed: 700,
+                smartSpeed: 3000,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
