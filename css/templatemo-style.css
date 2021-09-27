@@ -713,23 +713,27 @@ a#logo {
 }
 .input-field {
   margin-bottom: 15px;
-  color: white;
+  color: rgb(146, 100, 100);
+  /* color: black; */
 }
 .form-control {
   height: 50px;
-  color: #fff;
+  color: rgba(250, 250, 250, 0.25);
+  color: white;
   border: none;
-  background: rgba(250, 250, 250, 0.05);
+  /* background: rgba(250, 250, 250, 0.05); */
+  background: rgba(250, 250, 250, 0.25);
   border: 1px solid rgba(250, 250, 250, 0.5);
   border-radius: 10px;
   padding: 4px 22px;
-  font-size: 14px;
+  font-size: 15px;
+  font-weight: 400;
   margin-bottom: 30px;
 }
 .form-control:focus {
   box-shadow: none;
   outline: none;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(250, 250, 250, 0.25);
   border: 1px solid rgba(250, 250, 250, 1);
   color: #fff;
 }
